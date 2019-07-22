@@ -13,5 +13,4 @@ end
 
 def move(board, user_input, value = "X")
   board[user_input.to_i] = value
-  display_board(board) 
 end
