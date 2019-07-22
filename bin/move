@@ -12,4 +12,3 @@ input_to_index(user_input)
 
 move(board, user_input)
 
-puts board
