@@ -13,5 +13,3 @@ input_to_index(user_input)
 move(board,user_input)
 
 display_board(board)
-
-
