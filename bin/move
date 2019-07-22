@@ -7,5 +7,6 @@ board = Array.new(9," ")
 
 puts "Welcome to Tic Tac Toe!"
 
-input = gets.strip
-input_to_index(input)
+user_input = gets.strip
+
+index = input_to_index(input)
